@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 15px 108px 15px 108px;
+}
+
+.map {
+    display: flex;
+    justify-content: center;
+  }
+  
+
+  
