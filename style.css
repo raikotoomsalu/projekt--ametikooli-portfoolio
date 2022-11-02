@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.contact {
+    display: flex;
+    justify-content: center;
+    margin-top: ;
+}
+
+.contact-box {
+    width: 650px;
+    height: 550px;
+    background-color: aqua;
+    columns: 2;
+    padding: 10px;
+}
