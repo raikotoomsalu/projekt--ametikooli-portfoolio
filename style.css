@@ -183,3 +183,94 @@ input[type=checkbox] {
 
 
 }
+
+
+img {
+    max-width: 100%;
+}
+
+.galerii {
+    padding: 5rem;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    font-size: 25px;
+    color: grey;
+}
+
+.pic-list {
+    display: grid;
+    grid-template-columns: 1fr;
+    border: 1px solid #a254003d;
+    background-color: #EF7C003D;
+    box-shadow: 1px 2px 3px 1px grey; 
+    padding: 1rem;
+    gap: 1rem;
+}
+
+.pic {
+    border-radius: 5px;
+    background-color: rgb(0, 0, 0);
+    opacity: 1; 
+    box-shadow: 1px 2px 3px 1px grey; 
+    position: relative;
+    object-fit: cover;
+    transition: all 0.2s; 
+}
+
+    .lai {
+        height: auto;
+    }
+
+    .pikk {
+        width: auto;
+    }
+
+@media screen and (min-width: 600px) { 
+
+    .pic-list {
+        grid-template-columns: repeat(2, 1fr);
+    }    
+
+    .pic:hover {
+        box-shadow: 2px 3px 4px 1px rgba(56, 56, 56, 0.698);
+        opacity: 1;
+        z-index: 1;
+        transition: all 0.3s ease;
+        transform: scale(1.6)
+    }
+}
+    
+@media screen and (min-width: 800px) { 
+
+    .pic-list {
+        grid-template-columns: repeat(3, 1fr);
+    }    
+    
+    .pic:hover {
+        box-shadow: 2px 3px 4px 1px rgba(56, 56, 56, 0.698);
+        opacity: 1;
+        z-index: 1;
+        transition: all 0.3s ease;
+        transform: scale(1.2)
+    }
+}
+
+@media screen and (min-width: 1200px) { 
+
+    .pic-list {
+        grid-template-columns: repeat(4, 1fr);
+     }    
+        
+    .pic:hover {
+        box-shadow: 2px 3px 4px 1px rgba(56, 56, 56, 0.698);
+        opacity: 1;
+        z-index: 1;
+        transition: all 0.3s ease;
+        transform: scale(1.2)
+    }
+
+}
