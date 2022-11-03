@@ -1,5 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Chenla&display=swap');
+
 * {
     padding: 0;
     margin: 0;
@@ -10,8 +11,16 @@ body {
 	font-family: 'Chenla', sans-serif;
 	line-height: 1.6;
 	margin: 0;
-	min-height: 100vh;
+	/* min-height: 100vh; */
+    margin: 15px 108px 0px 108px;
 }
+
+.map {
+    display: flex;
+    justify-content: center;
+    justify-content: flex-start;
+}
+  
 
 .container{
     height: 100%;
@@ -45,7 +54,7 @@ li {
     align-items: center;
     justify-content: space-between;
     padding: 20px;
-    background-color: #ffffff;
+    background-color: beige;
     color: rgb(0, 0, 0);
 }
 
