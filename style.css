@@ -46,6 +46,12 @@ body {
     justify-content: center;
     justify-content: flex-start;
 }
+
+.text-main-box {
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+}
   
 
 .container{
@@ -86,7 +92,9 @@ li {
 .nav-links a {
     color: #284977;
 }
-
+.nav-links a:hover {
+    color: rgb(255, 106, 0);
+}
 .logo{
     width: auto;
     height: 80px;
@@ -102,7 +110,9 @@ li {
 }
 
 .menu li:hover {
-    background-color: #ffffff;
+    /* background-color: #ffb868; */
+    /* color: orange; */
+    border: 4px solid rgb(255, 106, 0) ;
     border-radius: 5px;
     transition: 0.3s ease;
 }
