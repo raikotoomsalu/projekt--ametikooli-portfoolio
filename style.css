@@ -154,7 +154,7 @@ input[type=checkbox] {
     user-select: none;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1006px ) {
 
     .menu {
         display: none;
