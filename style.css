@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Chenla&display=swap');
 
 * {
@@ -14,6 +13,42 @@ body {
     margin: 15px 108px 0px 108px;
 }
 
+.flex-container-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-kool {
+    height: 550px;
+    border-radius: 50px;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+
+.text-itself {
+    margin-top: 30px;
+}
+
+.three-icons {
+    width: 20%;
+    height: 100px;
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.pildikene {
+    height: 80px;
+    width: 80px;    
+}
+
+.homepage-text {
+    font-size: 20px;
+    padding: 20px;
+}
+
 .map {
     display: flex;
     justify-content: center;
@@ -21,9 +56,15 @@ body {
 }
 
 .text-main-box {
-    width: 200px;
-    height: 200px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    border: 2px solid black;
+    box-shadow: 5px 5px rgba(231, 223, 223, 1);
+    border-radius: 20px;
+    width: 100%;
+    height: 660px;
     background-color: bisque;
+    margin-top: 15px;
 }
   
 
@@ -58,7 +99,7 @@ li {
     align-items: center;
     justify-content: space-between;
     padding: 20px;
-    background-color: beige;
+
     color: rgb(0, 0, 0);
 }
 
