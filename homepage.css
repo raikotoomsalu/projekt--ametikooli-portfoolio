@@ -149,7 +149,7 @@ input[type=checkbox] {
 
     .hamburger {
         display: block;
-
+        width: auto;
     }
 
     .dropdown {
