@@ -1,3 +1,4 @@
+
 * {
     padding: 0;
     margin: 0;
@@ -194,6 +195,15 @@ input[type=checkbox] {
 
     .dropdown li:hover {
         background-color: #ffffff;
+    }
+
+}
+
+@media (max-width:720px) {
+    .contact {
+        width: 310px;
+        height: 400px;
+
     }
 
 
