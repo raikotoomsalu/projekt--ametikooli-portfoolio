@@ -10,7 +10,7 @@
 }
 
 .contact-box {
-    width: 850px;
+    width: 1000px;
     height: 535px;
     background-color: bisque;
     border-style: solid;
@@ -18,5 +18,6 @@
     border-color: black;
     columns: 2;
     box-shadow: 2px 2px 5px black;
-    text-decoration-color: blueviolet;
+    color: darkblue;
+    accent-color: red;
 }
