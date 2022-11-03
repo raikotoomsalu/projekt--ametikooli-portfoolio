@@ -13,10 +13,11 @@
 </head>
 <body>
 <div>
+
     <div class="container">
         <nav class="navbar">
             <div class="logo-main">
-                <img src="kuressaare-ametikool-100-logo-02-02-04.png" alt="logo" class="logo">
+                <a href="index.html"><img src="kuressaare-ametikool-100-logo-02-02-04.png" alt="logo" class="logo"></a>
             </div>
             
             <ul class="nav-links">
@@ -32,24 +33,52 @@
     </div>
 
     <div class="text-main-box">
-        <div class="text-itself">
-            
+        <div class="text-itself">              
+                    <p class="homepage-text">  Kuressaare Ametikool on Eesti kutsekool, mis asub Kuressaares aadressil Kohtu 22.</p>
+                    <p class="homepage-text">1922. aastal asutati Kuressaare Ehitusinstruktorite Kool, kuhu võeti vastu esimesed 19 õpilast. 
+                            Seda võib pidada nii Kuressaare Ametikooli kui üldse järjepideva kutsehariduse andmise alguseks Saaremaal. 
+                            1930. aastatel õpetati koolis peamiselt ehitus-, puidu- ja metallitööd. 1950ndatel lisandusid põllumajanduserialad. 
+                            1970. aastail hakati andma keskharidust ning avati kodumajanduse-käsitöö-loomakasvatuse erialarühmad tütarlastele. 
+                            1990. aastast on kooli nimi Kuressaare Ametikool. 1998. aastal liideti Ametikool 1992 Upal alustanud Saaremaa Kutseõppekeskusega.</p> 
+                            <p class="homepage-text">Ametikoolis õpib 800 õpilast. Õppijaid on kõikidest Eesti maakondadest. Vanim õppija on 2020–2021 õppeaastal 71-aastane.</p>
+                        <p class="homepage-text">Alates 1999. aastast on tänu PHARE projektidele koolist kujunenud piirkondlik koolituskeskus. 
+                            Paljude Euroopa Liidu projektide toel pakutakse enamikule õpilaskonnast praktikat ka väljaspool Eestit.</p>
+        </div>
+        <div>
+            <img src="kool.jpeg" alt="" class="logo-kool">
         </div>
     </div>
 
-    <div class="map">
-        <div id="googleMap" style="width:70%;height:150px; position:absolute; bottom:15px;"></div>
-            <script>
-
-            function myMap() {
-            var mapProp= {
-            center:new google.maps.LatLng(58.25613831202968,22.484354483110344),
-            zoom: 15,
-            };  
-            var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
-            }
-            </script>
+    <div class="flex-container-footer">
+        <div class="map">
+            <div id="googleMap"></div>
+                <script>
+    
+                function myMap() {
+                var mapProp= {
+                center:new google.maps.LatLng(58.25613831202968,22.484354483110344),
+                zoom: 15,
+                };  
+                var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+                }
+                </script>
+        </div>
+    
+        <div class="three-icons">
+            <div class="first-icon">
+                <a href="https://www.facebook.com/kuressaareametikool"><img src="fb.png" alt="" class="pildikene"></a> 
+            </div>
+    
+            <div class="second-icon">
+                <a href="https://www.instagram.com/kuressaareametikool/"><img src="IG.png" alt="" class="pildikene"></a> 
+            </div>
+    
+            <div class="third-icon">
+                <a href="https://ametikool.ee/et"><img src="maja.png" alt="" class="pildikene"></a>
+            </div>
+        </div>
     </div>
+    
 
 </div>
     

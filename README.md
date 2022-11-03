@@ -7,7 +7,7 @@ Raiko Toomsalu, Axel Pärnoja, Mikk Maltis, Sandra Mõttus, Siim Pildre, Ketrin 
 Eesmärgiks oli valmis saada koolile 100. sünnipäeva puhul portfoolio ja arendada meeskonnatööoskusi.
 
 ### Töö:
-Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime figma prototüüpi tegema. Sealt edasi hakksime vaikselt koodi kirjutama.
+Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime figma prototüüpi tegema. Jagasime ära mida keegi teeb ja sealt edasi hakksime vaikselt koodi kirjutama. Kui kellegill oli küsimusi või abi vaja aitasime jooksvalt.
 
 # Tiimi arvamused:
 

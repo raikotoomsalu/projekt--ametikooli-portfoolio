@@ -55,78 +55,138 @@ p {
 
 
 @import url('https://fonts.googleapis.com/css2?family=Chenla&display=swap');
-
 * {
     padding: 0;
     margin: 0;
-	box-sizing: border-box;
+    box-sizing: border-box;
 }
-
+img {
+    max-width: 100%;
+    object-fit: cover;
+}
 body {
-	font-family: 'Chenla', sans-serif;
-	line-height: 1.6;
-	margin: 0;
-	/* min-height: 100vh; */
-    margin: 15px 108px 0px 108px;
+    font-family: ‘Chenla’, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    /* min-height: 100vh; */
+    margin: 15px 108px 30px 108px;
 }
-
-.map {
+@media screen and (max-width: 1000px) {
+    body {
+        margin: 1rem;
+    }
+}
+.flex-container-footer {
+    margin-top: 30px;
     display: flex;
-    justify-content: center;
-    justify-content: flex-start;
+    justify-content: space-between;
+    align-items: center;
 }
-
+@media screen and (max-width: 1000px) {
+    .flex-container-footer {
+        flex-direction: column;
+    }
+    .map {
+        width: 100%;
+    }
+}
+.logo-kool {
+    height: 550px;
+    border-radius: 50px;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+.text-itself {
+    margin-top: 30px;
+}
+.three-icons {
+    height: 100px;
+    margin-top: 15px;
+    padding-right: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 0.5rem;
+}
+.pildikene {
+    height: 80px;
+    width: 80px;
+}
+.homepage-text {
+    font-size: 20px;
+    padding: 20px;
+}
 .text-main-box {
-    width: 200px;
-    height: 200px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    border: 2px solid black;
+    box-shadow: 5px 5px rgba(231, 223, 223, 1);
+    border-radius: 20px;
+    width: 100%;
     background-color: bisque;
+    margin-top: 15px;
 }
-  
-
-.container{
+@media screen and (max-width: 1000px) {
+    .text-main-box {
+        grid-template-columns: 1fr;
+        padding: 20px;
+    }
+}
+.map {
+    position: relative;
+    width: 70%;
+    height: 150px;
+    border-radius: 20px;
+    overflow: hidden;
+    border: 2px solid black;
+    box-shadow: 5px 5px rgba(231, 223, 223, 1);
+}
+.map #googleMap {
+    width: 100%;
+    height: 100%;
+}
+.container {
     height: 100%;
     width: auto;
 }
-
 a {
     text-decoration: none;
 }
-
 .text {
     font-weight: 500;
     box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
 }
-
 li {
     list-style: none;
 }
-
 .symbol {
     padding-top: 4px;
 }
-
 .login {
     font-weight: 300;
 }
-
 .navbar {
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 20px;
-    background-color: white;
+    background-color: beige;
     color: rgb(0, 0, 0);
 }
-
 .nav-links a {
     color: #284977;
 }
 .nav-links a:hover {
     color: rgb(255, 106, 0);
 }
-.logo{
+.logo {
     width: auto;
     height: 80px;
+}
+@media screen and (max-width: 1000px) {
+    .logo {
+        height: 40px;
+    }
 }
 /* navbar menu */
 .menu {
@@ -135,28 +195,23 @@ li {
     padding-top: 5px;
     font-size: 30px;
     margin-right: 50px;
-
 }
-
 .menu li:hover {
-    /* background-color: #ffb868; */
+    /* background-color: #FFB868; */
     /* color: orange; */
-    border: 4px solid rgb(255, 106, 0) ;
+    border: 4px solid rgb(255, 106, 0);
     border-radius: 5px;
     transition: 0.3s ease;
 }
-
 .menu li {
     padding: 5px 14px;
 }
-
 /* dropdown menu */
 .services {
     position: relative;
 }
-
 .dropdown {
-    background-color: #ffffff;
+    background-color: #FFFFFF;
     padding: 1em 0;
     position: absolute;
     display: none;
@@ -164,77 +219,60 @@ li {
     top: 35px;
     left: -30px;
 }
-
 .dropdown li+li {
     margin-top: 10px;
 }
-
 .dropdown li {
     padding: 0.5em 1em;
     width: 8em;
     text-align: center;
 }
-
 .dropdown li:hover {
-    background-color: #ffffff;
+    background-color: #FFFFFF;
 }
-
 .services:hover .dropdown {
     display: block;
 }
-
 input[type=checkbox] {
     display: none;
 }
-
 .hamburger {
     display: none;
     font-size: 24px;
     user-select: none;
 }
-
-@media (max-width: 768px) {
-
+@media (max-width: 1006px) {
     .menu {
         display: none;
         position: absolute;
-        background-color: #ffffff;
+        background-color: #FFFFFF;
         top: 127px;
         right: 0;
         left: 0;
         text-align: center;
         padding: 16px 0;
     }
-
     .menu li:hover {
         display: inline-block;
-        background-color: #ffffff;
+        background-color: #FFFFFF;
         transition: 0.3s ease;
     }
-
     .menu li+li {
         margin-top: 12px;
     }
-
     input[type=checkbox]:checked~.menu {
         display: block;
     }
-
     .hamburger {
         display: block;
         width: auto;
     }
-
     .dropdown {
         top: 40px;
         left: -80px;
         transform: translateX(35%);
-
     }
-
     .dropdown li:hover {
-        background-color: #ffffff;
+        background-color: #FFFFFF;
     }
-
-
 }
