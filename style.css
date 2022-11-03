@@ -4,28 +4,34 @@
     box-sizing: border-box;
 }
 
-.facts {
-    
-    
-    
-}
-
 .facts-box {
+    display: flex;
     width: 100%;
     background-color: bisque;
-    columns: 2;
     padding: 10px;
-    line-height: 3;
+    line-height: 2;
     border-radius: 25px;
     border: 2px solid black;
     box-shadow: 5px 5px rgba(231, 223, 223, 1);
-    padding-left: 30px;
+    flex-direction: column;
+    color: #284878;
+    text-align: center;
+    
+    
   
 }
 
-.Other-fact-box {
-    width: 100px;
-    height: 60px;
+.texts {
+    width: 75%;
+    margin: auto;
+    
+
+    
+}
+.texts li {
+    margin: 2em;
+    
+
     
 }
 
@@ -41,9 +47,10 @@ p {
 @media (max-width: 720px) {
     .facts-box {
         width: 500px;
-    }
-
-
+        margin-right: 100px;
+        display: flex;
+        align-content: center;
+    }   
 }
 
 
