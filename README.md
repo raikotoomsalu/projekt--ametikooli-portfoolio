@@ -1,12 +1,12 @@
 # projekt--ametikooli-portfoolio
 
-### Tiimi liikmed
+### Tiimi liikmed:
 Raiko Toomsalu, Axel Pärnoja, Mikk Maltis, Sandra Mõttus, Siim Pildre, Ketrin Vanatoa
 
-### Eesmärk
+### Eesmärk:
 Eesmärgiks oli valmis saada koolile 100. sünnipäeva puhul portfoolio ja arendada meeskonnatööoskusi.
 
-### Töö
+### Töö:
 Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime figma prototüüpi tegema. Sealt edasi hakksime vaikselt koodi kirjutama.
 
 # Tiimi arvamused:
@@ -53,6 +53,6 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime figma prot
 - figma; https://www.figma.com/file/Rbrj7fGr0vBw9VsHOwuPmC/Untitled?node-id=0%3A1
 - figma 2; https://www.figma.com/file/d48dq9IXtZinNxhLHMgGEL/Ametikool-100-2.0?node-id=0%3A1
 
-### Mida me kasutasime
+### Mida me kasutasime:
 
 Github, Figma, Slack, VScode, Ubuntu
