@@ -4,13 +4,23 @@
     box-sizing: border-box;
 }
 
-.container {
+.facts {
     display: flex;
-    border-bottom: 5px solid black;
-    height: 200px;
-    padding: 30px;
-    justify-content: center;
-    flex-wrap: wrap;
-    background-color: white;
+    justify-content: flex-end;
+    
 }
 
+.facts-box {
+    width: 606px;
+    height: 485px;
+    background-color: bisque;
+    columns: 2;
+    padding: 10px;
+}
+
+.Other-fact-box {
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    border: 2px;
+}
