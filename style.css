@@ -20,6 +20,12 @@ body {
     justify-content: center;
     justify-content: flex-start;
 }
+
+.text-main-box {
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+}
   
 
 .container{
