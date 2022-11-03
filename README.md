@@ -9,7 +9,7 @@ Eesmärgiks oli valmis saada koolile 100. sünnipäeva puhul portfoolio ja arend
 ### Töö
 Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime figma prototüüpi tegema. Sealt edasi hakksime vaikselt koodi kirjutama.
 
-# Tiimi heaolu:
+# Tiimi arvamused:
 
 ### Mis te arvasite projektist?
 
@@ -20,7 +20,7 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime figma prot
 - Siim Pildre:
 - Ketrin Vanatoa:
 
-### Kas te õppisite midagi uut projekti tegemas?
+### Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
 
 - Raiko Toomsalu:
 - Axel Pärnoja:
@@ -29,7 +29,16 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime figma prot
 - Siim Pildre:
 - Ketrin Vanatoa:
 
-### Kas tahaksite samas tiimis uuesti osaleda?
+### Üks pehme oskus, mida õppisin ja endas arendasin:
+
+- Raiko Toomsalu:
+- Axel Pärnoja:
+- Mikk Maltis:
+- Sandra Mõttus:
+- Siim Pildre:
+- Ketrin Vanatoa:
+
+### Üks tehniline oskus, mida õppisin ja endas arendasin:
 
 - Raiko Toomsalu:
 - Axel Pärnoja:
@@ -41,9 +50,8 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime figma prot
 ### Kas aja planeerimine vastas tegelikkusele?
 
 ### Lingid
-
-- 
-- 
+- figma; https://www.figma.com/file/Rbrj7fGr0vBw9VsHOwuPmC/Untitled?node-id=0%3A1
+- figma 2; https://www.figma.com/file/d48dq9IXtZinNxhLHMgGEL/Ametikool-100-2.0?node-id=0%3A1
 - 
 
 ### Mida me kasutasime
