@@ -32,6 +32,8 @@ body {
 .container{
     height: 100%;
     width: auto;
+    position: relative;
+    z-index: 9999;
 }
 
 a {
