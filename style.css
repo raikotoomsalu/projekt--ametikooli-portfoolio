@@ -5,25 +5,47 @@
 }
 
 .facts {
-    display: flex;
-    justify-content: flex-end;
+    
+    
     
 }
 
 .facts-box {
-    width: 606px;
-    height: 485px;
+    width: 100%;
     background-color: bisque;
     columns: 2;
     padding: 10px;
+    line-height: 3;
+    border-radius: 25px;
+    border: 2px solid black;
+    box-shadow: 5px 5px rgba(231, 223, 223, 1);
+    padding-left: 30px;
+  
 }
 
 .Other-fact-box {
-    width: 50px;
-    height: 50px;
-    padding: 10px;
-    border: 2px;
+    width: 100px;
+    height: 60px;
+    
 }
+
+ol li:: marker {
+    color: black;
+    content: counter(list-item);
+}
+
+p {
+    display: list-item;
+}
+
+@media (max-width: 720px) {
+    .facts-box {
+        width: 500px;
+    }
+
+
+}
+
 
 @import url('https://fonts.googleapis.com/css2?family=Chenla&display=swap');
 
@@ -80,7 +102,7 @@ li {
     align-items: center;
     justify-content: space-between;
     padding: 20px;
-    background-color: beige;
+    background-color: white;
     color: rgb(0, 0, 0);
 }
 
