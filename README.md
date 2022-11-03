@@ -1,7 +1,7 @@
 # projekt--ametikooli-portfoolio
 
 ### Tiimi liikmed:
-Raiko Toomsalu, Axel Pärnoja, Mikk Maltis, Sandra Mõttus, Siim Pildre, Ketrin Vanatoa
+Raiko Toomsalu, Axel Pärnoja, Mikk Maltis, Sandra Mõttus, Siim Pildre, Ketrin Vanatoa,Kaari Uus
 
 ### Eesmärk:
 Eesmärgiks oli valmis saada koolile 100. sünnipäeva puhul portfoolio ja arendada meeskonnatööoskusi.
@@ -19,6 +19,7 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime figma prot
 - Sandra Mõttus:
 - Siim Pildre:
 - Ketrin Vanatoa:
+- Kaari Uus:
 
 ### Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
 
@@ -28,6 +29,7 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime figma prot
 - Sandra Mõttus:
 - Siim Pildre:
 - Ketrin Vanatoa:
+- Kaari Uus
 
 ### Üks pehme oskus, mida õppisin ja endas arendasin:
 
@@ -37,6 +39,7 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime figma prot
 - Sandra Mõttus:
 - Siim Pildre:
 - Ketrin Vanatoa:
+- Kaari Uus:
 
 ### Üks tehniline oskus, mida õppisin ja endas arendasin:
 
@@ -46,6 +49,7 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime figma prot
 - Sandra Mõttus:
 - Siim Pildre:
 - Ketrin Vanatoa:
+- Kaari Uus:
 
 ### Kas aja planeerimine vastas tegelikkusele?
 
