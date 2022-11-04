@@ -14,7 +14,7 @@ Alustasime nagu kõik tiimid, õppisime üksteist veidi tundma ja siis hakkasime
 ### Mis te arvasite projektist?
 
 - Raiko Toomsalu: Väga lõbus oli. Tiim oli väga hea ja kõik oli hästi äge.
-- Axel Pärnoja:
+- Axel Pärnoja: Ikka lõbus oli ja nalja sai ka, Kõik tiimis olid hästi toredad.
 - Mikk Maltis: Arvan, et tiim oli väga hea, lõbus oli töötada, kõik tuli kenasti välja, tööd olid hästi ära jagatud.
 - Sandra Mõttus: Antud projekt oli väga huvitav ja aitas kinnistada eelnevalt õpitud oskusi (näiteks Flexbox).
 - Siim Pildre: Projekt oli parajalt keerukas nii ta22 kui tak21
@@ -24,7 +24,7 @@ Alustasime nagu kõik tiimid, õppisime üksteist veidi tundma ja siis hakkasime
 ### Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
 
 - Raiko Toomsalu: Järgmiste projektide juures saan kasutada õpitud Giti kasutamise oskusi.
-- Axel Pärnoja:
+- Axel Pärnoja: Järgmises arendusprojekts saan kasutada oma giti oskusi mida sain ja teha 
 - Mikk Maltis: Saan aru kuidas tööde jagamine käib, proovin võtta enda vastutusele nii palju, kui ma olen võimeline tegema.
 - Sandra Mõttus: Oskus kasutada Figmat on kindlasti järgnevate projektide juures vajalik.  Antud projekt andis võimaluse kinnistada teadmisi HTML-ist ja CSS-ist, mida saab samuti järgmise projekti juures kasutada.
 - Siim Pildre: git commit merge origin....
@@ -34,7 +34,7 @@ Alustasime nagu kõik tiimid, õppisime üksteist veidi tundma ja siis hakkasime
 ### Üks pehme oskus, mida õppisin ja endas arendasin:
 
 - Raiko Toomsalu: Rühma juthimine.
-- Axel Pärnoja:
+- Axel Pärnoja: Tiimitöö
 - Mikk Maltis: Hea tiimitöö.
 - Sandra Mõttus: Aja planeerimine ja vastutus oma rühmakaaslaste ees.
 - Siim Pildre: koodi kirjutamine võtab tunduvalt kauem aega kui tundub, isegi kui tead mida kirjutada. ajaplaneerimine
@@ -44,7 +44,7 @@ Alustasime nagu kõik tiimid, õppisime üksteist veidi tundma ja siis hakkasime
 ### Üks tehniline oskus, mida õppisin ja endas arendasin:
 
 - Raiko Toomsalu: Giti kasutamine.
-- Axel Pärnoja:
+- Axel Pärnoja: Githubi korralik kasutamine.
 - Mikk Maltis: Break elemendi kasutamine.
 - Sandra Mõttus: Selle projekti juures kasutasin esimest korda Figmat ja projekti lõpuks hakkasin sellest juba üsna hästi aru saama.
 - Siim Pildre: githubi kasutamine
