@@ -16,7 +16,7 @@ Alustasime nagu kõik tiimid, õppisime üksteist veidi tundma ja siis hakkasime
 - Raiko Toomsalu:
 - Axel Pärnoja:
 - Mikk Maltis:
-- Sandra Mõttus:
+- Sandra Mõttus: Antud projekt oli väga huvitav ja aitas kinnistada eelnevalt õpitud oskusi (näiteks Flexbox).
 - Siim Pildre:
 - Ketrin Vanatoa:
 - Kaari Uus: Täiega äge! Eelmises projektis ma ei saanud osaleda ja ma täpselt ei teadnud, mida oodata, aga oli hästi lõbus. Jõudsin küll natuke hiljem, aga sulandusin kenasti gruppi ja sain ka abiks olla.
@@ -26,7 +26,7 @@ Alustasime nagu kõik tiimid, õppisime üksteist veidi tundma ja siis hakkasime
 - Raiko Toomsalu:
 - Axel Pärnoja:
 - Mikk Maltis:
-- Sandra Mõttus:
+- Sandra Mõttus: Oskus kasutada Figmat on kindlasti järgnevate projektide juures vajalik.  Antud projekt andis võimaluse kinnistada teadmisi HTML-ist ja CSS-ist, mida saab samuti järgmise projekti juures kasutada.
 - Siim Pildre:
 - Ketrin Vanatoa:
 - Kaari Uus: Kasutasin esimest korda Figmat. Mulle muidu ka meeldib tegeleda disainiprojektidega ning järgmises grupitöös saaksingi teha Figmas veebidisaini.
@@ -36,7 +36,7 @@ Alustasime nagu kõik tiimid, õppisime üksteist veidi tundma ja siis hakkasime
 - Raiko Toomsalu:
 - Axel Pärnoja:
 - Mikk Maltis:
-- Sandra Mõttus:
+- Sandra Mõttus: Aja planeerimine ja vastutus oma rühmakaaslaste ees.
 - Siim Pildre:
 - Ketrin Vanatoa:
 - Kaari Uus: Kui on palju inimesi grupis, tasub kellegagi rääkides tema nimi ka ette öelda, mitte öelda lihtsalt "sina", muidu pool gruppi arvab, et pöörduti nende poole.
@@ -46,7 +46,7 @@ Alustasime nagu kõik tiimid, õppisime üksteist veidi tundma ja siis hakkasime
 - Raiko Toomsalu:
 - Axel Pärnoja:
 - Mikk Maltis:
-- Sandra Mõttus:
+- Sandra Mõttus: Selle projekti juures kasutasin esimest korda Figmat ja projekti lõpuks hakkasin sellest juba üsna hästi aru saama.
 - Siim Pildre:
 - Ketrin Vanatoa:
 - Kaari Uus: Sain uusi kogemusti HTML-is ja CSS-ssis. Näiteks break ei tööta listi sees, listi vahesid tuleb sättida CSS-is.
