@@ -15,7 +15,7 @@ Alustasime nagu kõik tiimid, õppisime üksteist veidi tundma ja siis hakkasime
 
 - Raiko Toomsalu:
 - Axel Pärnoja:
-- Mikk Maltis:
+- Mikk Maltis: Arvan, et tiim oli väga hea, lõbus oli töötada, kõik tuli kenasti välja, tööd olid hästi ära jagatud.
 - Sandra Mõttus: Antud projekt oli väga huvitav ja aitas kinnistada eelnevalt õpitud oskusi (näiteks Flexbox).
 - Siim Pildre:
 - Ketrin Vanatoa: Projekt oli põnev, õppisin juurde nii mõndagi.
@@ -25,7 +25,7 @@ Alustasime nagu kõik tiimid, õppisime üksteist veidi tundma ja siis hakkasime
 
 - Raiko Toomsalu:
 - Axel Pärnoja:
-- Mikk Maltis:
+- Mikk Maltis: Saan aru kuidas tööde jagamine käib, proovin võtta enda vastutusele nii palju, kui ma olen võimeline tegema.
 - Sandra Mõttus: Oskus kasutada Figmat on kindlasti järgnevate projektide juures vajalik.  Antud projekt andis võimaluse kinnistada teadmisi HTML-ist ja CSS-ist, mida saab samuti järgmise projekti juures kasutada.
 - Siim Pildre:
 - Ketrin Vanatoa:Proovin järgmises projektides paremini teisi õpetada kuna ma tundsin, et mina sain aru mida tegema peab aga ma ei osanud seda lahtiseletada.
@@ -35,7 +35,7 @@ Alustasime nagu kõik tiimid, õppisime üksteist veidi tundma ja siis hakkasime
 
 - Raiko Toomsalu:
 - Axel Pärnoja:
-- Mikk Maltis:
+- Mikk Maltis: Hea tiimitöö.
 - Sandra Mõttus: Aja planeerimine ja vastutus oma rühmakaaslaste ees.
 - Siim Pildre:
 - Ketrin Vanatoa: Meeskonnatööoskus
@@ -45,7 +45,7 @@ Alustasime nagu kõik tiimid, õppisime üksteist veidi tundma ja siis hakkasime
 
 - Raiko Toomsalu:
 - Axel Pärnoja:
-- Mikk Maltis:
+- Mikk Maltis: Break elemendi kasutamine.
 - Sandra Mõttus: Selle projekti juures kasutasin esimest korda Figmat ja projekti lõpuks hakkasin sellest juba üsna hästi aru saama.
 - Siim Pildre:
 - Ketrin Vanatoa: HTML ja CSS arenes veelgi
