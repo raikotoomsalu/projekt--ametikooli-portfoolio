@@ -1,3 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.facts-box {
+    display: flex;
+    width: 100%;
+    background-color: bisque;
+    padding: 10px;
+    line-height: 2;
+    border-radius: 25px;
+    border: 2px solid black;
+    box-shadow: 5px 5px rgba(231, 223, 223, 1);
+    flex-direction: column;
+    color: #284878;
+    text-align: center;
+    
+    
+  
+}
+
+
+.texts {
+    width: 75%;
+    margin: auto;
+    padding: 2em;
+}
+
+
+li {
+    padding: 1em;
+}
+
+p::marker {
+    display: none;
+    content: counter(list-item);
+}
+
+p {
+    display: list-item;
+}
+
+@media (max-width: 720px) {
+    .facts-box {
+        width: 500px;
+        margin-right: 100px;
+        display: flex;
+        align-content: center;
+    }   
+}
+
+
 @import url('https://fonts.googleapis.com/css2?family=Chenla&display=swap');
 * {
     padding: 0;
