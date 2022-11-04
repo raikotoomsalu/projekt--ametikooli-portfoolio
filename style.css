@@ -92,6 +92,8 @@ body {
 .container {
     height: 100%;
     width: auto;
+    position: relative;
+    z-index: 9999;
 }
 a {
     text-decoration: none;
@@ -114,6 +116,7 @@ li {
     align-items: center;
     justify-content: space-between;
     padding: 20px;
+    background-color: beige;
     color: rgb(0, 0, 0);
 }
 .nav-links a {
@@ -218,4 +221,6 @@ input[type=checkbox] {
     .dropdown li:hover {
         background-color: #FFFFFF;
     }
+
+
 }
