@@ -16,7 +16,7 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime figma prot
 - Raiko Toomsalu:
 - Axel Pärnoja:
 - Mikk Maltis:
-- Sandra Mõttus:
+- Sandra Mõttus: projekt oli iseeneset väga põnev. Aitas kinnitada eelnevalt õpitud teadmisi, nt flexbox.
 - Siim Pildre:
 - Ketrin Vanatoa:
 - Kaari Uus:
@@ -26,7 +26,7 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime figma prot
 - Raiko Toomsalu:
 - Axel Pärnoja:
 - Mikk Maltis:
-- Sandra Mõttus:
+- Sandra Mõttus: oskus kasutada Figmat on kindlasti järgmiste projekti juures oluline. Selle projekti jooksul sain ka uusi teadmisi HTML-ist ja CSS-ist, mis on kindlastii kasuks järgmiste projektide juures.
 - Siim Pildre:
 - Ketrin Vanatoa:
 - Kaari Uus
@@ -36,7 +36,7 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime figma prot
 - Raiko Toomsalu:
 - Axel Pärnoja:
 - Mikk Maltis:
-- Sandra Mõttus:
+- Sandra Mõttus: arendasin endas meeskonnatöö oskust ja aja planeerimist.
 - Siim Pildre:
 - Ketrin Vanatoa:
 - Kaari Uus:
@@ -46,12 +46,12 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime figma prot
 - Raiko Toomsalu:
 - Axel Pärnoja:
 - Mikk Maltis:
-- Sandra Mõttus:
+- Sandra Mõttus: kasutasin esimest korda Figmat ja sain lõpuks sellest juba päris hästi aru. 
 - Siim Pildre:
 - Ketrin Vanatoa:
 - Kaari Uus:
 
-### Kas aja planeerimine vastas tegelikkusele?
+### Kas aja planeerimine vastas tegelikkusele? Jah vastas
 
 ### Lingid
 - figma; https://www.figma.com/file/Rbrj7fGr0vBw9VsHOwuPmC/Untitled?node-id=0%3A1
