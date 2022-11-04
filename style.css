@@ -21,22 +21,20 @@
   
 }
 
+
 .texts {
     width: 75%;
     margin: auto;
-    
-
-    
-}
-.texts li {
-    margin: 2em;
-    
-
-    
+    padding: 2em;
 }
 
-ol li:: marker {
-    color: black;
+
+li {
+    padding: 1em;
+}
+
+p::marker {
+    display: none;
     content: counter(list-item);
 }
 
@@ -170,7 +168,6 @@ li {
     align-items: center;
     justify-content: space-between;
     padding: 20px;
-    background-color: beige;
     color: rgb(0, 0, 0);
 }
 .nav-links a {
