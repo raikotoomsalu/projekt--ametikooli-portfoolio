@@ -52,6 +52,7 @@ Alustasime nagu kõik tiimid, õppisime üksteist veidi tundma ja siis hakkasime
 - Kaari Uus: Sain uusi kogemusti HTML-is ja CSS-ssis. Näiteks break ei tööta listi sees, listi vahesid tuleb sättida CSS-is.
 
 ### Kas aja planeerimine vastas tegelikkusele?
+- Jah
 
 ### Lingid
 - figma; https://www.figma.com/file/Rbrj7fGr0vBw9VsHOwuPmC/Untitled?node-id=0%3A1
