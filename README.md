@@ -13,7 +13,7 @@ Alustasime nagu kõik tiimid, õppisime üksteist veidi tundma ja siis hakkasime
 
 ### Mis te arvasite projektist?
 
-- Raiko Toomsalu:
+- Raiko Toomsalu: Väga lõbus oli. Tiim oli väga hea ja kõik oli hästi äge.
 - Axel Pärnoja:
 - Mikk Maltis: Arvan, et tiim oli väga hea, lõbus oli töötada, kõik tuli kenasti välja, tööd olid hästi ära jagatud.
 - Sandra Mõttus: Antud projekt oli väga huvitav ja aitas kinnistada eelnevalt õpitud oskusi (näiteks Flexbox).
@@ -23,7 +23,7 @@ Alustasime nagu kõik tiimid, õppisime üksteist veidi tundma ja siis hakkasime
 
 ### Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
 
-- Raiko Toomsalu:
+- Raiko Toomsalu: Järgmiste projektide juures saan kasutada õpitud Giti kasutamise oskusi.
 - Axel Pärnoja:
 - Mikk Maltis: Saan aru kuidas tööde jagamine käib, proovin võtta enda vastutusele nii palju, kui ma olen võimeline tegema.
 - Sandra Mõttus: Oskus kasutada Figmat on kindlasti järgnevate projektide juures vajalik.  Antud projekt andis võimaluse kinnistada teadmisi HTML-ist ja CSS-ist, mida saab samuti järgmise projekti juures kasutada.
@@ -33,7 +33,7 @@ Alustasime nagu kõik tiimid, õppisime üksteist veidi tundma ja siis hakkasime
 
 ### Üks pehme oskus, mida õppisin ja endas arendasin:
 
-- Raiko Toomsalu:
+- Raiko Toomsalu: Rühma juthimine.
 - Axel Pärnoja:
 - Mikk Maltis: Hea tiimitöö.
 - Sandra Mõttus: Aja planeerimine ja vastutus oma rühmakaaslaste ees.
@@ -43,7 +43,7 @@ Alustasime nagu kõik tiimid, õppisime üksteist veidi tundma ja siis hakkasime
 
 ### Üks tehniline oskus, mida õppisin ja endas arendasin:
 
-- Raiko Toomsalu:
+- Raiko Toomsalu: Giti kasutamine.
 - Axel Pärnoja:
 - Mikk Maltis: Break elemendi kasutamine.
 - Sandra Mõttus: Selle projekti juures kasutasin esimest korda Figmat ja projekti lõpuks hakkasin sellest juba üsna hästi aru saama.
