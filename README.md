@@ -49,7 +49,7 @@ Alustasime nagu kõik tiimid, õppisime üksteist veidi tundma ja siis hakkasime
 - Sandra Mõttus:
 - Siim Pildre:
 - Ketrin Vanatoa:
-- Kaari Uus: Sain uusi kogemusti HTML-is ja CSS-ssis. Näiteks <br> ei tööta listi (<ul>, <ol>) sees, listi vahesid tuleb sättida CSS-is.
+- Kaari Uus: Sain uusi kogemusti HTML-is ja CSS-ssis. Näiteks break ei tööta listi sees, listi vahesid tuleb sättida CSS-is.
 
 ### Kas aja planeerimine vastas tegelikkusele?
 
