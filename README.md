@@ -1,7 +1,7 @@
 # projekt--ametikooli-portfoolio
 
 ### Tiimi liikmed:
-Raiko Toomsalu, Axel Pärnoja, Mikk Maltis, Sandra Mõttus, Siim Pildre, Ketrin Vanatoa,Kaari Uus
+Raiko Toomsalu, Axel Pärnoja, Mikk Maltis, Sandra Mõttus, Siim Pildre, Ketrin Vanatoa, Kaari Uus
 
 ### Eesmärk:
 Eesmärgiks oli valmis saada koolile 100. sünnipäeva puhul portfoolio ja arendada meeskonnatööoskusi.
