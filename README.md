@@ -1,13 +1,13 @@
 # projekt--ametikooli-portfoolio
 
 ### Tiimi liikmed:
-Raiko Toomsalu, Axel Pärnoja, Mikk Maltis, Sandra Mõttus, Siim Pildre, Ketrin Vanatoa,Kaari Uus
+Raiko Toomsalu, Axel Pärnoja, Mikk Maltis, Sandra Mõttus, Siim Pildre, Ketrin Vanatoa, Kaari Uus
 
 ### Eesmärk:
 Eesmärgiks oli valmis saada koolile 100. sünnipäeva puhul portfoolio ja arendada meeskonnatööoskusi.
 
 ### Töö:
-Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime figma prototüüpi tegema. Jagasime ära mida keegi teeb ja sealt edasi hakksime vaikselt koodi kirjutama. Kui kellegill oli küsimusi või abi vaja aitasime jooksvalt.
+Alustasime nagu kõik tiimid, õppisime üksteist veidi tundma ja siis hakkasime Figma prototüüpi tegema. Jagasime ära mida keegi teeb ja sealt edasi hakksime vaikselt koodi kirjutama. Kui kellegill oli küsimusi või abi vaja aitasime jooksvalt.
 
 # Tiimi arvamused:
 
@@ -16,42 +16,43 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime figma prot
 - Raiko Toomsalu:
 - Axel Pärnoja:
 - Mikk Maltis:
-- Sandra Mõttus:
+- Sandra Mõttus: Antud projekt oli väga huvitav ja aitas kinnistada eelnevalt õpitud oskusi (näiteks Flexbox).
 - Siim Pildre:
-- Ketrin Vanatoa:
-- Kaari Uus:
+- Ketrin Vanatoa: Projekt oli põnev, õppisin juurde nii mõndagi.
+- Kaari Uus: Täiega äge! Eelmises projektis ma ei saanud osaleda ja ma täpselt ei teadnud, mida oodata, aga oli hästi lõbus. Jõudsin küll natuke hiljem, aga sulandusin kenasti gruppi ja sain ka abiks olla.
 
 ### Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
 
 - Raiko Toomsalu:
 - Axel Pärnoja:
 - Mikk Maltis:
-- Sandra Mõttus:
+- Sandra Mõttus: Oskus kasutada Figmat on kindlasti järgnevate projektide juures vajalik.  Antud projekt andis võimaluse kinnistada teadmisi HTML-ist ja CSS-ist, mida saab samuti järgmise projekti juures kasutada.
 - Siim Pildre:
-- Ketrin Vanatoa:
-- Kaari Uus
+- Ketrin Vanatoa:Proovin järgmises projektides paremini teisi õpetada kuna ma tundsin, et mina sain aru mida tegema peab aga ma ei osanud seda lahtiseletada.
+- Kaari Uus: Kasutasin esimest korda Figmat. Mulle muidu ka meeldib tegeleda disainiprojektidega ning järgmises grupitöös saaksingi teha Figmas veebidisaini.
 
 ### Üks pehme oskus, mida õppisin ja endas arendasin:
 
 - Raiko Toomsalu:
 - Axel Pärnoja:
 - Mikk Maltis:
-- Sandra Mõttus:
+- Sandra Mõttus: Aja planeerimine ja vastutus oma rühmakaaslaste ees.
 - Siim Pildre:
-- Ketrin Vanatoa:
-- Kaari Uus:
+- Ketrin Vanatoa: Meeskonnatööoskus
+- Kaari Uus: Kui on palju inimesi grupis, tasub kellegagi rääkides tema nimi ka ette öelda, mitte öelda lihtsalt "sina", muidu pool gruppi arvab, et pöörduti nende poole.
 
 ### Üks tehniline oskus, mida õppisin ja endas arendasin:
 
 - Raiko Toomsalu:
 - Axel Pärnoja:
 - Mikk Maltis:
-- Sandra Mõttus:
+- Sandra Mõttus: Selle projekti juures kasutasin esimest korda Figmat ja projekti lõpuks hakkasin sellest juba üsna hästi aru saama.
 - Siim Pildre:
-- Ketrin Vanatoa:
-- Kaari Uus:
+- Ketrin Vanatoa: HTML ja CSS arenes veelgi
+- Kaari Uus: Sain uusi kogemusti HTML-is ja CSS-ssis. Näiteks break ei tööta listi sees, listi vahesid tuleb sättida CSS-is.
 
 ### Kas aja planeerimine vastas tegelikkusele?
+- Jah
 
 ### Lingid
 - figma; https://www.figma.com/file/Rbrj7fGr0vBw9VsHOwuPmC/Untitled?node-id=0%3A1
@@ -59,4 +60,4 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime figma prot
 
 ### Mida me kasutasime:
 
-Github, Figma, Slack, VScode, Ubuntu
+Github, Figma, Slack, VScode, Ubuntu, Photoshop
